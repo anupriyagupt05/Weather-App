@@ -6,7 +6,9 @@
   color-scheme: light dark;
   color: black;
   background-color: white;
-
+  background-image: url("https://media.istockphoto.com/id/1011128754/photo/thermometer-in-the-sky-the-heat.webp?b=1&s=612x612&w=0&k=20&c=PgF2mZlDkBZx_raadkyHefDF4qKSf_dxasDvo1QM2JY=");
+  background-size: cover;
+  z-index: -1;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
